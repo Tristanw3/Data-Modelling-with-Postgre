@@ -6,6 +6,7 @@ This database can be used to analyse the popularity of music on the sparkify mus
 
 It consists of the Fact table:
 * Songplays
+
 And the Dimension tables:
 * Users
 * Songs
