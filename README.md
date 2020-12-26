@@ -1,5 +1,7 @@
 # Sparkify Songplays Analytics Database
 
+Project 01 for the Data Engineering Nanodegree
+
 This database can be used to analyse the popularity of music on the sparkify music app.
 
 It consists of the Fact table:
